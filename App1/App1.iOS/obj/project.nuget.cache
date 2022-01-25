@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ouRjFR/vLIbBXkuFgcydNW+nizx0qGOgpTgWCWAq9a4wsvOr301Bh5uuXZ0+kTjVFhx1KXU0/hcwBzeBpP/n3g==",
+  "success": true,
+  "projectFilePath": "/Users/armankulbaev/RiderProjects/App1/App1/App1.iOS/App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/armankulbaev/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

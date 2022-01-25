@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGz0BSVBgm/wdjPubg7m4J5OaInKcxBWfrqywUHvbOLnrSmvw7wMpx5HBF8Ww4pGpHrG1TNm8vfQt6fDHhAQEQ==",
+  "success": true,
+  "projectFilePath": "/Users/armankulbaev/RiderProjects/App1/App1/App1/App1.csproj",
+  "expectedPackageFiles": [
+    "/Users/armankulbaev/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/armankulbaev/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/armankulbaev/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
